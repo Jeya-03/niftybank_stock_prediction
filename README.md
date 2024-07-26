@@ -18,7 +18,9 @@ Requirements:
 Results:
 
 a.LSTM: Best at capturing temporal correlations, highest accuracy.
+
 b.GRU: Comparable accuracy to LSTM, shorter training duration.
+
 c.Linear Regression: Easier to implement, provided accurate results in experiments.
 
 Conclusion:
