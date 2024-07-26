@@ -23,6 +23,9 @@ b.GRU: Comparable accuracy to LSTM, shorter training duration.
 
 c.Linear Regression: Easier to implement, provided accurate results in experiments.
 
+![image](https://github.com/user-attachments/assets/466e58e9-b0e3-4259-9b05-1b56ede41e5a)
+
+
 ## Conclusion:
 
 The results of this study suggest that LSTM is the most effective algorithm for predicting Nifty Bank stock prices.. Linear Regression, provided better valuable predictions.
